@@ -4,7 +4,7 @@
   "description": "proycto de api rest ful del curso de udemy",
   "main": "index.js",
   "scripts": {
-    "start":"nodemon index.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Yo",
@@ -12,7 +12,8 @@
   "dependencies": {
     "D": "^1.0.0",
     "body-parser": "^1.18.2",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "mongoose": "^4.13.3"
   },
   "devDependencies": {
     "nodemon": "^1.12.1"
